@@ -6,4 +6,5 @@ gamerule.god=False - sets normal mode;
 gameplay.coins.collect=all - collects all coins;
 gameplay.enemies.neutralise=all - kills all enemies;
 gameplay.level.switch=*level number* - switches to the level you select;
-gameplay.progress.deaths.remove=all - clears deaths
+gameplay.progress.deaths.remove=all - clears deaths;
+The game uses the pygame external library so you may need to install it before runing the game.
